@@ -3,3 +3,7 @@ so that I can see those differences just for the specified file i.e. I can type 
 but typing git status -vv conf/application.conf, will still show me all the changes in the console. 
 Because in practice I never have just one file modified, there are perhaps tens of files, with tens of modified lines of code, 
 and scrolling for half a minute to find what I need is not efficient. But technically, your answer is correct, indee
+
+this is great 
+
+and 
